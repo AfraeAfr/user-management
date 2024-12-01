@@ -15,7 +15,10 @@
     <description>Demo project for Spring Boot</description>
 
     <properties>
-        <java.version>21</java.version>
+        <java.version>17</java.version>
+        <sonar.projectKey>user-management</sonar.projectKey>
+        <sonar.host.url>http://localhost:9000</sonar.host.url>
+        <sonar.login>sqp_d830cafb1130744895ecf4d9b25a2686a5829343</sonar.login>
     </properties>
 
     <dependencies>
